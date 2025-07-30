@@ -1,0 +1,1 @@
+# Banka-Pazarlama-Verisinin-SQL-ile-Segmentasyon-ve-D-n-m-Oran-Analizi
